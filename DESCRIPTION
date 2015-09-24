@@ -1,0 +1,10 @@
+Package: ocpu_sketchbook
+Type: Package
+Title: OpenCPU Sketchbook
+Version: 0.1
+Date: 2015-09-15
+Author: Neil Miller
+Maintainer: Neil <neil@nm-projects.com>
+Description: This is an OpenCPU test app used to test ideas and concepts.
+License: Apache2
+LazyData: true
