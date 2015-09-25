@@ -1,10 +1,11 @@
 Package: appdemo
 Type: Package
-Title: OpenCPU Sketchbook
-Version: 0.1
-Date: 2015-09-15
-Author: Neil Miller
-Maintainer: Neil <neil@nm-projects.com>
-Description: This is an OpenCPU test app used to test ideas and concepts.
+Title: OpenCPU Demo App
+Version: 0.4
+Date: 2013-12-05
+Author: Jeroen Ooms
+Maintainer: Jeroen <jeroenooms@gmail.com>
+Description: This package is an example of an OpenCPU App. It demonstrates
+    basic functionality of the API and Javascript library.
 License: Apache2
 LazyData: true
